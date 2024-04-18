@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabView3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_myTab">My Tab</string>
+    <string name="txtName">Raul</string>
+    <string name="txtProfileInformation">Hello, My name is Raul Aquino Escobar \n
+    - I am a 21 year old man learning about the different types of code \n
+    - I own two parakeets named Dovah and Pepper Serrano, Pepper is the bird I placed as my me picture \n
+    - I like listening to classic rock, my favorite song is Tarkus by Eerson, Lake and Palmer \n
+    - My favorite food is Green Enchiladas</string>
+</resources>
